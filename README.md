@@ -34,8 +34,6 @@ This is a Unity editor tool for exporting a `Texture2DArray` to a sequence of PN
 2. In Unity, select a `Texture2DArray` resource.
 3. From the menu bar, click `Tools > Texture > Export Texture2DArray to PNG`.
 
-## Example
-![Example Screenshot](screenshot.png)
 
 ## License
 This project is open-source under the MIT License. See the [LICENSE](LICENSE) file for details.
